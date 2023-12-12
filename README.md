@@ -1,5 +1,6 @@
 # California_house
-California 집값 예측과 시각화
+California 집값 예측과 시각화 - 머신러닝 기법 사용
+
 ![슬라이드2](https://github.com/recordmystory/California_house/assets/113417749/dab51e87-13d7-466f-8e36-b8c473f9a677)
 ![슬라이드3](https://github.com/recordmystory/California_house/assets/113417749/9e2e4b3c-2302-420a-9afd-ef4ab94a42b1)
 ![슬라이드4](https://github.com/recordmystory/California_house/assets/113417749/c49fe6b2-72d6-4bec-9d9e-62b78305ec73)
